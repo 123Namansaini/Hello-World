@@ -1,3 +1,3 @@
 # Hello-World
 
-I am naman Saini and I wanted to change world
+I am naman Saini and I want to change world
